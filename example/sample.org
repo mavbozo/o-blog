@@ -1,14 +1,13 @@
-#+TITLE: o-blog
+#+TITLE: mavbozo
 #-DESCRIPTION: A stand-alone blogging system for Org-mode.
-#+DATE: 2013-02-08 19:33:26
+#+DATE: <2014-07-21 Mon>
 
 #+STARTUP: logdone
 
 #-TEMPLATE_DIR: templates
-#+URL: http://renard.github.com/o-blog
+#+URL: http://www.maverickbozo.me
 
 #+DEFAULT_CATEGORY: Tips
-#+DISQUS: renard-o-blog
 #+FILENAME_SANITIZER: ob-sanitize-string
 #+POST_SORTER: ob-sort-posts-by-title
 
@@ -18,7 +17,7 @@
 #+POST_BUILD_SHELL: cmd 4
 
 
-* Quick start Guide
+* Home
   :PROPERTIES:
   :PAGE:     index.html
   :TEMPLATE: blog_static_no_title.html
@@ -27,9 +26,9 @@
 #+begin_o_blog_row 8
 
 #+begin_o_blog_hero_unit
-#+HTML: <h1>o-blog</h1>
+#+HTML: <h1>mavbozo</h1>
 
-A stand-alone blog and publication tool for [[http://orgmode.org/][Org-mode]].
+my personal website
 #+end_o_blog_hero_unit
 
 #+HTML: <h1 style="font-size: 500%;">Quick start guide</h1>
