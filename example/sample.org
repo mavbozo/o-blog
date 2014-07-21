@@ -87,9 +87,11 @@ This is my personal blog
   - Zeroeth try to post
 
 * Blogs
-** TODO Lighttable Error: could not open 'C:\Program Files\Java\jre7\lib\i386\jvm.cfg' :clojure:
+** TODO Lighttable's ergoemacs QWERTY keybinding :clojure: :lighttable:
+   
+** TODO Lighttable Error: could not open 'C:\Program Files\Java\jre7\lib\i386\jvm.cfg' :clojure: :lighttable:
    Somehow, previous java installation copied java.exe, javaw.exe, and javaws.exe to C:\Windows\System32 and C:\Windows\SystemWOW64
    google search and found http://jaykhimani.blogspot.com/2012/09/error-could-not-open-cprogram.html
 
-** TODO First or Zeroeth Post?					     :random:
+** TODO First or Zeroeth Post?					     :unsinn:
    Hi, First or Zeroeth Post
